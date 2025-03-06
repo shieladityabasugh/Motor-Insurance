@@ -1,2 +1,4 @@
-# Ctrl-Alt-Del: Motor-Insurance Case Study
-A repository containing the relevant information pertaining to DecodeX'25 hackathon
+# Motor-Insurance Case Study
+
+My team, Ctrl-Alt-Del, comprising Khushi Gupta, Himani Grover, and myself, secured 2nd place in our problem statement and achieved an overall top 10 ranking in the event.
+This repository contains all the relevant information pertaining to DecodeX'25 hackathon. 
