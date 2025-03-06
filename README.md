@@ -2,3 +2,6 @@
 
 My team, Ctrl-Alt-Del, comprising Khushi Gupta, Himani Grover, and myself, secured 2nd place in our problem statement and achieved an overall top 10 ranking in the event.
 This repository contains all the relevant information pertaining to DecodeX'25 hackathon. 
+
+
+Data: The garage and surveyor data were too big to be added to the repo, hence why a preview of the data has been attached. The primary parts which needed to be referred to has also been attached.
